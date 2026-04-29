@@ -15,6 +15,9 @@ calculate the amount of areas that could potentially be used for greenspace with
 
 
 
+
+
+
 ### Prerequisites
 Before accessing the code, please ensure that the following are installed on your device:
 - `git`: available [here](https://git-scm.com/install/)
@@ -22,7 +25,9 @@ Before accessing the code, please ensure that the following are installed on you
 
 
 
-### Downloading/coning the repository 
+
+
+### Downloading/cloning the repository 
 
 The reposistory for this project is hosted at: https://github.com/Beebop212/Greenspace_project722
 
@@ -35,6 +40,8 @@ where {your_username} = your GitHub Username
 Alternatively, if you do not have access to a GitHub account, clone the repository using the following command:
 
 `git clone https://github.com/Beebop212/Greenspace_project722.git`
+
+
 
 
 
