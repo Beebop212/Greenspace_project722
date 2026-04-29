@@ -74,5 +74,5 @@ The data used in this project given below, along with links of where to find and
 - `Local Government District (LGD) Boundaries (2012)` available at: https://admin.opendatani.gov.uk/dataset/osni-open-data-largescale-boundaries-local-government-districts-2012
 - `NI Census Data Zone (DZ) Boundaries (2021)` available at: https://www.nisra.gov.uk/publications/super-data-zone-boundaries-gis-format
 - `NI Census Super Data Zone (SDZ) Boundaries (2021)` available at: https://www.nisra.gov.uk/publications/data-zone-boundaries-gis-format
-- 'NI Settlmement Development Limits (2015)` available at: https://www.nisra.gov.uk/support/geography/urban-rural-classification#toc-1
+- `NI Settlmement Development Limits (2015)` available at: https://www.nisra.gov.uk/support/geography/urban-rural-classification#toc-1
 - `NI Greenspaces` viewable [here](https://out-scape.com/greenspace-ni-map/), dowlnoaded via. [arcgis online](https://www.arcgis.com/home/item.html?id=9867486d0d6c4beda45d320ded755f62)  )
