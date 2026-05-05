@@ -4,10 +4,15 @@
 
 *Repository for EGM 722 project that uses python for greenspace analyses in NI. Includes code, readme, gitignore and license files.*
 
-The code is provided in the the form of a notebook file that takes the user through the analysis, using the data files provided. 
-The main goal of this project is to develop a code that can be used to perform basic spatial analysis on greenspace availability in Northern Ireland.
-It will be able to calculate and provide information on an area's current coverage of greenspaces; its average proximity to nearby greenspaces; and
-calculate the amount of areas that could potentially be used for greenspace within a certain distance of an area.
+The purpose of the code is to allow the user to perform a simple spatial analysis of greenspace availability and accessibility in Northern Ireland, without requiring experience in Geographic Information Systems (GIS). Using the code, the user can answer questions such as which local governments have the highest coverage of greenspaces, what areas are in close distance of greenspaces, and how much land is available for potential greenspaces within a suitable distance of settlements.
+
+The code is provided in the form of a jupyter notebook, to enable the user to use the code interactively, and consists of 4 main parts:
+1. An initial setting up of the data, loading the shapefiles and verifying each layer’s co-ordinate reference system (CRS).
+2. Coverage analysis: calculating the amount of green space within each area, in terms of Km2 and as a percentage of the total area.
+3. Proximity analysis: Counting the number of green spaces within a specified distance of an area and calculating each area’s distance to the nearest greenspace.
+4. A basic suitability analysis, utilizing raster layers to calculate the area of land suitable for green space within a specified distance of each area.
+
+
 
 ---
 
